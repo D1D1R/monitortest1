@@ -1,0 +1,5 @@
+# à ignorer sur git
+/venv/
+Footsites/Footlocker/Footlockerlog.log
+.idea
+.vscode
